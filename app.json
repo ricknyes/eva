@@ -21,12 +21,12 @@
         },
         "OWNER": {
             "description": "ايـدي الـمـطور",
-            "value": "6024124201",
+            "value": "6834810473",
             "required": true
         },
         "bot_token": {
             "description": "توكن البوت",
-            "value": "6901419757:AAGwASB0w05cSdyBJXw2OuHQ9zVtD2TASA4",
+            "value": "6700764195:AAF7Q4dSIRZLKfKk11hd760EO75Khg1IO0o",
             "required": true
     }
   }
